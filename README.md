@@ -6,4 +6,4 @@ If these are not in power of 2 then padding of 0 is done.
     Java Programming language
  #Time Complexity  of  Strassen Algorithm 
  O(n^2.81)
-#Time Complexity of Matrix Multiplication always remain O(n^3).
+#Time Complexity of Matrix Multiplication always remain O(n^3)..
